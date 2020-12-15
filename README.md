@@ -16,6 +16,10 @@ api 요청 60, 600, 3000, 6000 회를 실행
 
 그냥 참고용으로 관람.
 
+## 개발 버전
+- C# - .Net Core 3.1
+- Golang - go1.15.4
+
 <img src="https://github.com/nosoogja/ApiServerTest/blob/master/result.png"/>
 
 
